@@ -1,4 +1,4 @@
-- Mandarin speaking economist who opened the Data Science door and hasnt looked back since.
+- Mandarin speaking🧧 economist 📈who opened the Data Science door and hasnt looked back since.
 - Passionate about combining language and quantitative skills to create value in unique places.
 - Founder and MP of Revalesce Analytics LLP, a  Data-Science driven solutions provider primarily operating in co-working analytics.
 
