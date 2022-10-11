@@ -1,6 +1,6 @@
-- Mandarin speaking🧧 economist 📈who opened the Data Science door and hasnt looked back since.
+- Mandarin speaking🧧 economist 📈
 - Passionate about combining language and quantitative skills to create value in unique places.
-- Founder and MP of Revalesce Analytics LLP, a  Data-Science driven solutions provider primarily operating in co-working analytics.
+
 
 -Please reach out to me if you want to collaborate or have any questions regading my repos/projects at: maxonorris@gmail.com 
 
