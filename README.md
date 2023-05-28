@@ -1,5 +1,4 @@
-- Mandarin speaking🧧 economist 📈
-- Passionate about combining language and quantitative skills to create value in unique places.
+PhD NLP at Edinburgh university. Fascinated by the field of Knowledge Tracing and its broader role within human machine interaction.
 
 
 -Please reach out to me if you want to collaborate or have any questions regading my repos/projects at: maxonorris@gmail.com 
